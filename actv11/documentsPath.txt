@@ -1,0 +1,6 @@
+
+*******  Paths de archivos   *********
+0 => 049.html
+1 => hard.html
+2 => medium.html
+3 => simple.html
